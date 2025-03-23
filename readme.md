@@ -16,5 +16,4 @@ Windows Fetch
  - `cd`
  - `ls`
 ### [+] Disclaimer 
-Tools is not intended to get no bitches in the future and ill release it in public so many ppl can use it to destroy :)
-
+neofetch for windows, i love this.
